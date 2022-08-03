@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // calculate number + 2
-func Calculate(x int) (result) {
+func Calculate(x int) (result int) {
   result = x + 2
   return
 }
